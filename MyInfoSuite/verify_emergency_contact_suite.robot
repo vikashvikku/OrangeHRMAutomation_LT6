@@ -6,7 +6,7 @@ Documentation       This suite will handle valid credential
 # Library    OperatingSystem
 Resource    ../Resource/Commonfunctionality.resource
 
-#Test Teardown       Close Browser
+Test Teardown       Close Browser
 Test Setup      Launch Browser
 
 *** Test Cases ***
